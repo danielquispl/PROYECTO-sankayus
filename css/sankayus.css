@@ -1,0 +1,165 @@
+*{
+    margin: 0;
+    text-align: center;
+}
+body{
+    text-align: center;
+    font-size: 17px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+header{
+    background-color: rgb(117, 223, 68);
+    height: 70px;
+    padding-bottom: 15px;
+    padding-top: 15px;
+}
+.logo{
+    margin-right: 160rem;
+    width: 70px;
+    height: 70px;
+    border-radius: 50%;
+    border: 3px solid white;
+}
+.categorias{
+    width: 80%;
+    margin-left: 30%;
+}
+.categorias, a{
+    margin-top: -69px;
+    text-decoration: none;
+    color: black;
+    font-size: 20px;
+    padding-top: 17px;
+    padding-bottom: 19px;
+    padding-left: 10px;
+    padding-right: 10px;   
+}
+.categorias a:hover{
+    background-color: green;
+    color: azure;
+    padding-top: 60px;
+    padding-bottom: 60px;
+}
+.sanka{
+    width: 100%;
+}
+.delicia{
+    margin-top: -350px;
+    font-size: 30px;
+}
+.delicia p{
+    color: aliceblue;
+    font-size: 40px;
+    margin-left: -50px;
+    
+
+}
+.delicia h1{
+    font-size: 90px;
+}
+.leermas{
+    text-decoration: none;
+    padding: 10px 70px;
+    margin-left: -370px;
+    border-radius: 15px;
+    border: 5px solid rgb(255, 255, 255);
+    color: azure;
+    background-color: rgb(255, 157, 10);
+}
+.bienvenidos {
+    width: 80%;
+    margin:  10%;
+    padding-top: 50px;
+}
+.seccion p{
+    text-align: left;
+    padding-left: 10px;
+}
+.propiedades2 div img{
+    width: 280px;
+    height: 250px;
+    border-radius: 15px;
+    margin-left: 10px;
+    margin-right: 10px;
+
+}
+.propiedades2 {
+    display: flex;
+
+}
+.propiedades1{
+    width: 70%;
+    margin-left: 15%;
+    margin-right: 15%;
+}
+h3{
+    color: rgb(0, 162, 255);
+}
+.curativas{
+    background: rgb(95, 218, 218);
+}
+section div div img{
+    width: 280px;
+    height: 250px;
+    border-radius: 30px;
+}
+section div div p{
+    margin: 50px;
+
+}
+section div div p b{
+    color: rgb(0, 162, 255);;
+}
+.cura{
+    display: flex;
+    background-color: rgb(95, 218, 218);
+    padding: 20px;
+}
+.masa-corporal p{
+    width: 80%;
+    padding-left: 10%;
+    padding-right: 10%;
+}
+.calculo{
+    width: 22%;
+    padding-left: 39%;
+    padding-right: 39%;
+}
+.calculo .medicion{
+    width: 95%;
+}
+.calculo .calcularIMC{
+    border-radius: 25px;
+    background: blue;
+    border: 3px solid black;
+    color: white;
+    padding: 0 20px;
+}
+.imc{
+    width: 80px;
+}
+.Leyenda{
+    width: 90%;
+}
+.facebook{
+    width: 40px;
+    height: 40px;
+    border-radius: 5px;
+}
+.pie{
+    width: 100%;
+    background-color: aqua;
+}
+.pie2{
+    width: 100%;
+    display: flex;
+} 
+.pie2 div h1{
+    font-size: 80px;
+    margin-left: 30%;
+}
+.logo-senati{
+    width: 20%;
+    height: auto;
+    margin-left: 70%;
+}
